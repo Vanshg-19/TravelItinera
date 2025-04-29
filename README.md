@@ -10,6 +10,9 @@ A personalized, AI-powered day trip itinerary generator built using **LangChain*
 - 📍 User inputs: City + Interests → 📋 Output: Bullet-style itinerary with tips
 
 ---
+## Important Note
+
+This project was originally created in a Jupyter notebook environment (like Google Colab or Jupyter Lab). The code is designed to be run in a notebook environment for the best experience, especially for visualizations and interactive components.
 
 ## 🚀 How to Set Up and Run the Project
 
