@@ -52,9 +52,10 @@ Or export it as an environment variable:
 ```bash
 export GROQ_API_KEY=your_actual_key    # macOS/Linux
 set GROQ_API_KEY=your_actual_key       # Windows
+```
 🧾 Requirements
 Below is the content of the requirements.txt file:
-```
+
 txt
 langchain
 langchain_core
@@ -66,9 +67,10 @@ If you're not using a requirements.txt file, you can install them manually:
 
 ```bash
 pip install langchain langchain_core langchain_groq langchain_community langgraph gradio
+```
+
 🖼️ How to Run
 Run the following command in your terminal:
-```
 ```bash
 python main.py
 Then open the link in your browser provided by Gradio.
@@ -80,9 +82,10 @@ travel-itinerary-planner/
 ├── main.py               # Core application with LangGraph and Gradio
 ├── requirements.txt      # List of dependencies
 └── README.md             # Project documentation (this file)
+```
+
 🔮 Example Use Case
 City: Tokyo
-```
 Interests: Anime, street food, temples
 
 🧾 Output: A curated morning to night plan with local breakfast spots, anime-related attractions, temple visits, food markets, and sunset views — all based on your interests.
